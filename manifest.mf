@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: pl.qsoft.gcviewer
+OpenIDE-Module-Install: pl/qsoft/gcviewer/Installer.class
+OpenIDE-Module-Localizing-Bundle: pl/qsoft/gcviewer/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
