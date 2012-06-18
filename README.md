@@ -1,4 +1,4 @@
-gcvperf
+GCViewer
 =======
 
-Visual VM plugin form nonitoring garbage collection performance
+Visual VM plugin for monitoring garbage collection performance
